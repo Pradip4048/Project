@@ -1,0 +1,28 @@
+.header{
+     background-color: aqua;
+     padding: 8px;
+      
+}
+.header ul{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+.header ul li{
+    margin-right: 70px;
+    list-style-type: none;
+
+}
+.p1{
+    height: 50vh;
+    width: 100%;
+    background-image: url("img/1.webp") ;
+    outline: none;
+    display: flex;
+    text-align: center;
+    color: black;
+    font-weight:bold;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 35px;
+
+}
